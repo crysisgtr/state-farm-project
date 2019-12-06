@@ -1,4 +1,4 @@
-## whats up armin
+## Welcome to Coding Club!
 
 You can use the [editor on GitHub](https://github.com/crysisgtr/state-farm-project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
