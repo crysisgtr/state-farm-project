@@ -7,7 +7,7 @@
 What is Armaan Mouse?
 
 
-Armaan Mouse is a website we made to teach kids with no coding expierience how easy coding can be with multiple mini lessons. Our lessons are fun, simple, and informative.
+Armaan Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
 
 ###What lessons are included?
 
@@ -22,7 +22,7 @@ each lesson contains
 
 
 **Bold** and _Italic_ and `Code` text
-
+<img src="images/ARMAANMOUSE.jpg" alt="hi" class="inline"/>
 [Link](url) and ![Image](src)
 ```
 
@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crysisgtr/state-farm-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-<img src="images/ARMAANMOUSE.JPG" alt="hi" class="inline"/>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
