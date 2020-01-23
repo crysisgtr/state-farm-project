@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/crysisgtr/state-farm-proje
 ### What is Armaan Mouse?
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Armaan Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
 
 ```markdown
 Syntax highlighted code block
