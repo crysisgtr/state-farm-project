@@ -4,7 +4,7 @@
 
 
 
-### What is Armaan Mouse?
+ What is Armaan Mouse?
 
 
 Armaan Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
