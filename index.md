@@ -9,8 +9,7 @@ You can use the [editor on GitHub](https://github.com/crysisgtr/state-farm-proje
 
 Armaan Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
 
-```markdown
-Syntax highlighted code block
+###What lessons are included?
 
 # Lesson 1 printing
 ## Lesson 2 primative types
@@ -21,8 +20,6 @@ each lesson contains
 - A video that shows and teaches the techinique
 - A interactive way to practice the new lesson
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
