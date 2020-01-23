@@ -12,12 +12,14 @@ Armaan Mouse is a website we made to teach kids with no coding expierience with 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Lesson 1 printing
+## Lesson 2 primative types
+### Lesson 3 loops
 
-- Bulleted
-- List
+each lesson contains
+- A paragraph that the student can read to learn basic knowledgs
+- A video that shows and teaches the techinique
+- A interactive way to practice the new lesson
 
 1. Numbered
 2. List
@@ -32,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crysisgtr/state-farm-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-<img src="ARMAANMOUSE.JPG" alt="hi" class="inline"/>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
