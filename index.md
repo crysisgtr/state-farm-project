@@ -1,10 +1,10 @@
-# Welcome to Armaan Mouse!
+# Welcome to 
 
 
 
 
 
-What is Armaan Mouse?
+What is ?
 
 
 Armaan Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
@@ -22,7 +22,7 @@ each lesson contains
 
 
 **Bold** and _Italic_ and `Code` text
-<img src="images/ARMAANMOUSE.jpg" alt="hi" class="inline"/>
+
 [Link](url) and ![Image](src)
 ```
 
