@@ -1,4 +1,4 @@
-# Welcome to learning mouse
+# Welcome to Coding Mouse
 
 
 
@@ -7,7 +7,7 @@
 What is learning mouse?
 
 
-Learning Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
+Coding Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
 
 What lessons are included?
 
