@@ -7,7 +7,7 @@
 What is coding mouse?
 
 
-Coding Mouse is a website we made to teach kids with no coding expierience with multiple mini lessons. Our lessons are fun, simple, and informative 
+Coding Mouse is a website with multiple mini lessons we made to teach kids who have no coding expierience. Our lessons are fun, simple, and informative 
 
 What lessons are included?
 
