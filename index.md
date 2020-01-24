@@ -14,6 +14,7 @@ Learning Mouse is a website we made to teach kids with no coding expierience wit
 ### Lesson 1 printing
 ### Lesson 2 primative types
 ### Lesson 3 loops
+### Lesson 4 review lab
 
 each lesson contains
 - A paragraph that the student can read to learn basic knowledges
