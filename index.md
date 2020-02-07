@@ -13,11 +13,11 @@ What lessons are included?
 
 ### [Lesson 1 Printing](/printing.md)
 
-### Lesson 2 primative types
+### [Lesson 2 Primitive Types](/primitivetypes.md)
 
-### Lesson 3 loops
+### [Lesson 3 Loops](/loops.md)
 
-### Lesson 4 review lab
+### [Lesson 4 Review Lab](/review.md)
 
 each lesson contains
 - A paragraph that the student can read to learn basic knowledges
