@@ -25,5 +25,5 @@ each lesson contains
 - A interactive way to practice the new lesson
 
 
-We aspire to get kids interestead in coding so that they may be more likely to at least take one Computer Science class in Highschool to see if it's right for them. We think that any kid has potential to be a great programer and by giving them access to learning how to code they may decide that they want to something related to it. 
+We aspire to get kids interested in coding so that they may be more likely to at least take one computer science class in high school to see if it is right for them. We think that any kid has potential to be a great programmer, and by giving them access to learning how to code, they may decide that they want to pursue a computer science related field. 
 
