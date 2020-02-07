@@ -5,7 +5,7 @@
 
 A primitive type is one of the two ways to store a variable. There are three categories of primitive types: int, double, and boolean. In this lesson we will cover all three of these types. 
 
-To declare, or create a variable, you have to follow a certain layout. The layout is "_ primitive type_ _variable name_ = _value_;".
+To declare, or create a variable, you have to follow a certain layout. The layout is " _ primitive type_ _variable name_ = _value_;".
 
 ### Int Values
 
