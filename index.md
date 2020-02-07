@@ -25,3 +25,5 @@ each lesson contains
 - A interactive way to practice the new lesson
 
 
+We aspire to get kids interestead in coding so that they may be more likely to at least take one Computer Science class in Highschool to see if it's right for them. We think that any kid has potential to be a great programer and by giving them access to learning how to code they may decide that they want to something related to it. 
+
