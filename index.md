@@ -11,7 +11,7 @@ Coding Mouse is a website with multiple mini lessons we made to teach kids who h
 
 What lessons are included?
 
-### Lesson 1 printing
+### [Lesson 1 Printing](/printing.md)
 
 ### Lesson 2 primative types
 
