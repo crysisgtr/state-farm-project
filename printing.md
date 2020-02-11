@@ -5,13 +5,13 @@ Printing is one of the easiests things to program into your code. You are probab
 ## Examples 
 
 1). Print out the words "Hello User!"
-    System.out.println("Hello User!");
+     System.out.println("Hello User!");
 
 2). Print out the defined variable int x = 3;
-    System.out.println(x);
+     System.out.println(x);
     
 3). Print out the number 43 without using a variable
-    System.out.print("43");
+     System.out.print("43");
 
 
 ## Video
