@@ -24,3 +24,6 @@ Example: double percentScore = 95.0;
 The third and final primitive type "boolean" is a variable that holds 'true' or 'false'. 'boolean' values cannot undergo operators like int and double can. You can use boolean to answer things like, 'Is it sunny today?', or 'Does the class have more males than females?'. Boolean also can go along with more complicated things like 'if' and 'else' statements that we will learn about on the other page.
 
 Example: boolean sunny = false;
+
+
+### Video
