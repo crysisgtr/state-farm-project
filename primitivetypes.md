@@ -9,7 +9,7 @@ To declare, or create a variable, you have to follow a certain layout. The layou
 
 ### Int Values
 
-The primitive type "int" is a variable that holds integer values, ie 1, 903, -523, 1,542,578. 'int' values can undergo 'operators', for example addition('+'), subtraction('-'), multiplication('*'), and division('/'). Along with operators, you can check if two values are the same by using ('=='). 
+The primitive type "int" is a variable that holds integer values, ie 1, 903, -523, 1,542,578. 'int' values can undergo 'operators', for example addition('+'), subtraction('-'), multiplication('*'), and division('/'). Along with operators, you can check if two values are the same by using ('=='). Also with int values, you can put '++' after the variable and it will add '1' to the variable.
 
 Example: int numberOfStudents = 32;
 
